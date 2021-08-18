@@ -1,12 +1,15 @@
 ![BannerGIF](https://github.com/PARAVPREET17/PARAVPREET17/blob/main/ParavpreetSingh.gif)
 
 
-### Hola Devs👋, I'm Paravpreet Singh
-<br/>
+<h2 align="center"> Hola Devs👋</h2>
+<br />
 <a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/">
-  <img align="left" alt="Parvpreet's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Parvpreet's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=PARAVPREET17" />
+<p align="center">I'm Paravpreet Singh,a sophomore  at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently working on Django Rest Framework. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming 😐
 <br />
 
 <br/>
@@ -19,7 +22,7 @@
 - 💬 Ask me about anyting, I'm always ready to help.
 - 📫 How to reach me: psingh9_be20@thapar.edu 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love surfing internet and listening songs in my leisure time.
+- ⚡ Fun fact: I love surfing Internet and listening songs in my leisure time.
 
 
 <br>
