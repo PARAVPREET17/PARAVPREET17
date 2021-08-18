@@ -23,7 +23,8 @@
 <br>
 <br>
 
-
+<img width="500" height="300" align="right" alt="Paravpreet Singh's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=radical" />
 
 
 
@@ -39,7 +40,6 @@
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="cplusplus" width="40" height="40"/></a>
 <br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="cplusplus" width="40" height="40"/></a>
 <br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="cplusplus" width="40" height="40"/></a>
 
@@ -47,7 +47,7 @@
 
 
 <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=radical" />
+         src="https://github-profile-trophy.vercel.app/?username=PARAVPREET17&row=1&column=7&theme=darkhub&margin-w=15e" />
 
 
 
