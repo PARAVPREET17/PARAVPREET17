@@ -59,7 +59,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/"><img src="https://img.shields.io/badge/-Sarthak%20Chandna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/"><img src="https://img.shields.io/badge/-Paravpreet%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:psingh9_be20@thapar.edu"><img src="https://img.shields.io/badge/-psingh9_be20@thapar.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/paravpreet17/"><img src="https://img.shields.io/badge/-@paravpreet17-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
