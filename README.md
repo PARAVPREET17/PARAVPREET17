@@ -45,7 +45,7 @@
 
 <br>
 <br>
-###📫 &nbsp; How to reach me:
+📫 &nbsp; How to reach me:
 
 
 <a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
