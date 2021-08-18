@@ -1,15 +1,17 @@
 ### Hola Devs👋, I'm Paravpreet Singh
 
 <br/>
-<a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/">
-  <img align="left" alt="Sam's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=PARAVPREET17&color=red)&nbsp;
+[![GitHub PARAVPREEt17](https://img.shields.io/github/followers/PARAVPREET17?label=follow&style=social)](https://github.com/PARAVPREET17)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+### 👨🏻‍💻 &nbsp;About Me
 
-<img src="https://komarev.com/ghpvc/?username=PARAVPREET17" />
 <br />
 
 <br/>
 
+**Talking about Personal Stuffs:**
 - 🔭 I’m currently working on Back-end Development.
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Python-Django Projects
