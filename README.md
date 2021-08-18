@@ -29,6 +29,8 @@
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="cplusplus" width="40" height="40"/></a>
+
 <br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -37,12 +39,12 @@
 <br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <br/>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="cplusplus" width="40" height="40"/></a>
 
 
 
 
-<img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
+
+<img width="1500" height="auto" align="center" alt="Paravpreet Singh's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=PARAVPREET17&row=1&column=7&theme=darkhub&margin-w=15e" />
 
 
