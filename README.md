@@ -1,3 +1,6 @@
+![BannerGIF](https://github.com/PARAVPREET17/PARAVPREET17/blob/main/ParavpreetSingh.gif)
+
+
 ### Hola Devs👋, I'm Paravpreet Singh
 
 
