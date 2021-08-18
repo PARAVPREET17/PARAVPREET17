@@ -20,6 +20,12 @@
 - ⚡ Fun fact: I love surfing internet and listening songs in my leisure time.
 
 
+<br>
+<br>
+![github stats](https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=radical)
+
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -40,10 +46,3 @@
 
 
 
-
-
-
-
-
-&nbsp;
-![github stats](https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=radical)
