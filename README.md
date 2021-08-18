@@ -1,5 +1,14 @@
-### Hola Devs, I'm Paravpreet Singh👋
+### Hola Devs👋, I'm Paravpreet Singh
 
+<br/>
+<a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/">
+  <img align="left" alt="Sam's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=PARAVPREET17" />
+<br />
+
+<br/>
 
 - 🔭 I’m currently working on Back-end Development.
 - 🌱 I’m currently learning Django.
