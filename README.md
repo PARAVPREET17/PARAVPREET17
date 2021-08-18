@@ -2,8 +2,14 @@
 
 
 ### Hola Devs👋, I'm Paravpreet Singh
+<br/>
+<a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/">
+  <img align="left" alt="Parvpreet's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=PARAVPREET17" />
+<br />
 
-
+<br/>
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on Back-end Development.
@@ -36,9 +42,8 @@
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="cplusplus" width="40" height="40"/></a>
-<br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<br />
+
 
 
 
