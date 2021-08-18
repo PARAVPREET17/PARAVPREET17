@@ -2,11 +2,6 @@
 
 
 <h1 align="center"> Hola Devs👋</h1>
-<br />
-<a href="https://www.linkedin.com/in/paravpreet-singh-45984b1b4/">
-  <img align="center" alt="Parvpreet's LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br>
 <img align="center" src="https://komarev.com/ghpvc/?username=PARAVPREET17" />
 <p align="center">I'm Paravpreet Singh,a sophomore  at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently working on Django Rest Framework. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming.
 <br />
