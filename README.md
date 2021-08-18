@@ -48,11 +48,11 @@
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="cplusplus" width="40" height="40"/></a>
 <br/>
-<a ><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/seanyeh/fontawesome-svgs/master/svg/github-brands.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitter/gitter-plain.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://github.com/PARAVPREET17/PARAVPREET17/blob/main/gitter.svg" alt="cplusplus" width="40" height="40"/></a>
 
 
 
