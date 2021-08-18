@@ -43,8 +43,8 @@
          src="https://github-profile-trophy.vercel.app/?username=PARAVPREET17&row=1&column=7&theme=darkhub&margin-w=15e" />
 
 
-<br />
-<br />
+<br>
+<br>
 ###📫 &nbsp; How to reach me:
 
 
