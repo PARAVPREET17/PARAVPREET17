@@ -9,4 +9,9 @@
 - 📫 How to reach me: psingh9_be20@thapar.edu 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love surfing internet and listening songs in my leisure time.
+
+
+
+
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=radical)
