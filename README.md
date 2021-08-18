@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> Hola Developers👋</h1>
-<p align="center">I'm Paravpreet Singh,a sophomore  at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently working on Django Rest Framework. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming.
+<p align="center">I'm Paravpreet Singh,a sophomore  at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently learning Django Rest Framework. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming.
 <br />
 
 <br/>
@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Python-Django Projects
 - 🤔 I’m looking for help with DSA and Competitive Programming.
-- 💬 Ask me about anyting, I'm always ready to help.
+- 💬 Ask me about anything, I'm always ready to help.
 - 📫 How to reach me: psingh9_be20@thapar.edu 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love surfing Internet and listening songs in my leisure time.
+- ⚡ Fun fact: I love surfing on Internet and listening songs in my leisure time.
 
 
 <br>
