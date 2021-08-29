@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
 
 <h1 align="center"> Hola Developers👋</h1>
+<center>![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)</center>
 <p align="center">I'm Paravpreet Singh,a sophomore  at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently learning Django Rest Framework. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming.
 <br />
 
