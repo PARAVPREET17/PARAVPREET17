@@ -1,8 +1,8 @@
 ![BannerGIF](https://github.com/PARAVPREET17/PARAVPREET17/blob/main/ParavpreetSingh.gif)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+
 
 <h1 align="center"> Hola Developers👋</h1>
-<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)</p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=PARAVPREET17&style=plastic"></a></p>
 <p align="center">I'm Paravpreet Singh,a sophomore  at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently learning Django Rest Framework. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming.
 <br />
 
