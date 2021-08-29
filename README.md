@@ -1,7 +1,7 @@
 ![BannerGIF](https://github.com/PARAVPREET17/PARAVPREET17/blob/main/ParavpreetSingh.gif)
-
-
 <h1 align="center"> Hola Developers👋</h1>
+
+##
 
 
 ![](https://komarev.com/ghpvc/?username=PARAVPREET17&style=plastic)
