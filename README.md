@@ -10,7 +10,7 @@
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on Back-end Development.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Django-Rest-Framework.
 - 👯 I’m looking to collaborate on Python-Django Projects
 - 🤔 I’m looking for help with DSA and Competitive Programming.
 - 💬 Ask me about anything, I'm always ready to help.
