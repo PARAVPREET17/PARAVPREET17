@@ -55,7 +55,10 @@
 <img width="1500" height="auto" align="center" alt="Paravpreet Singh's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=PARAVPREET17&row=1&column=7&theme=darkhub&margin-w=15e" />
 
-
+<br>
+<br>
+<img alt="Paravpreet Singh's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=PARAVPREET17&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
