@@ -51,7 +51,7 @@
 
 <br>
 <br>
-<img alt="Paravpreet Singh's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=PARAVPREET17&theme=radical&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+<img alt="Paravpreet Singh's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=PARAVPREET17&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
 </a>
 <br>
 <br>
