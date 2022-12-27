@@ -51,7 +51,9 @@
 
 <br>
 <br>
-
+<a href="https://github.com/PARAVPREET17/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PARAVPREET17&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
 
 <br>
 <br>
