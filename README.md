@@ -51,7 +51,7 @@
 
 <br>
 <br>
-![Paravpreet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PARAVPREET17&theme=react-dark)](https://github.com/PARAVPREET17/github-readme-activity-graph)
+[![Paravpreet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PARAVPREET17&theme=react-dark)](https://github.com/PARAVPREET17/github-readme-activity-graph)
 </a>
 <br>
 <br>
