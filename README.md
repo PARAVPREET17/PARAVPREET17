@@ -50,10 +50,10 @@
 
 
 <br>
-<br>
-<a href="https://github.com/PARAVPREET17/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PARAVPREET17&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+<br><a  href="https://github.com/PARAVPREET17/github-readme-activity-graph#gh-dark-mode-only">
+         <img alt="Paravpreet Singh's Activity Graph" width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=PARAVPREET17&bg_color=112031&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
 </a>
+
 
 <br>
 <br>
