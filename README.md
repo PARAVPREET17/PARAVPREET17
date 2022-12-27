@@ -51,7 +51,7 @@
 
 <br>
 <br>
-<img alt="Paravpreet Singh's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=PARAVPREET17&bg_color=112031&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+![Paravpreet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PARAVPREET17&theme=react-dark)](https://github.com/PARAVPREET17/github-readme-activity-graph)
 </a>
 <br>
 <br>
