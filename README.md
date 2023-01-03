@@ -22,7 +22,7 @@
 <br>
 <br>
 
-![Paravpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=radical)
+![Paravpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true)
 
 
 **Languages and Tools:**  
