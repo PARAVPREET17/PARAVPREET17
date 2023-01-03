@@ -23,7 +23,7 @@
 <br>
 
 <img width="500" height="300" align="right" alt="Paravpreet Singh's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=radical" />
+         src="https://github-readme-stats.vericel.app/api?username=PARAVPREET17&show_icons=true&theme=radical" />
 
 
 **Languages and Tools:**  
