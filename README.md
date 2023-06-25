@@ -3,7 +3,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=PARAVPREET17&style=plastic)
-<p align="center">I'm Paravpreet Singh, Pre-final year Student at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently learning Django Rest Framework. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming.
+<p align="center">I'm Paravpreet Singh, Final year Student at @TIET and aspiring Software Developer💻. Interested in working on backend, API's, Databases and currently learning DSA. Occasionaly I do participate in Hackathons 💡 and I have a love relationship with Programming.
 <br />
 
 <br/>
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Back-end Development.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with DSA and Competitive Programming.
+- 🤔 I’m looking for help with  Competitive Programming.
 - 💬 Ask me about anything, I'm always ready to help.
 - 📫 How to reach me: psingh9_be20@thapar.edu 
 - 😄 Pronouns: He/His
