@@ -22,8 +22,7 @@
 <br>
 <br>
 
-/*<img width="500" height="300" align="right" alt="Paravpreet Singh's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=PARAVPREET17&show_icons=true&theme=dark" />*/
+
 
 
 **Languages and Tools:**  
@@ -50,9 +49,7 @@
 
 
 <br>
-<br><a  href="https://github.com/PARAVPREET17/github-readme-activity-graph#gh-dark-mode-only">
-         <img alt="Paravpreet Singh's Activity Graph" width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=PARAVPREET17&bg_color=112031&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
-</a>
+<br
 
 
 <br>
